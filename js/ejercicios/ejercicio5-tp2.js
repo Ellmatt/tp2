@@ -27,82 +27,82 @@ do {
         break;
       case 1:
         document.write(
-          "<br>la letra que corresponde a su dni es la , dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la R , dni ingresado" + numero
         );
         break;
       case 2:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la W, dni ingresado" + numero
         );
         break;
       case 3:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la A, dni ingresado" + numero
         );
         break;
       case 4:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la G, dni ingresado" + numero
         );
         break;
       case 5:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la M, dni ingresado" + numero
         );
         break;
       case 6:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la Y, dni ingresado" + numero
         );
         break;
       case 7:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la F, dni ingresado" + numero
         );
         break;
       case 8:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la P, dni ingresado" + numero
         );
         break;
       case 9:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la D, dni ingresado" + numero
         );
         break;
       case 10:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la X, dni ingresado" + numero
         );
         break;
       case 11:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la B, dni ingresado" + numero
         );
         break;
       case 12:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la N, dni ingresado" + numero
         );
         break;
       case 13:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la J, dni ingresado" + numero
         );
         break;
       case 14:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la Z, dni ingresado" + numero
         );
         break;
       case 15:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la S, dni ingresado" + numero
         );
         break;
       case 16:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la Q, dni ingresado" + numero
         );
         break;
       case 17:
@@ -112,27 +112,27 @@ do {
         break;
       case 18:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la H, dni ingresado" + numero
         );
         break;
       case 19:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la L, dni ingresado" + numero
         );
         break;
       case 20:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la C, dni ingresado" + numero
         );
         break;
       case 21:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la K, dni ingresado" + numero
         );
         break;
       case 22:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la E, dni ingresado" + numero
         );
         break;
       default:
