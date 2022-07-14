@@ -21,7 +21,7 @@ do {
     switch (resultado) {
       case 0:
         document.write(
-          "<br>la letra que corresponde a su dni es la T, dni ingresado" + numero
+          "<br>la letra que corresponde a su dni es la T, dni ingresado"+ numero
         );
         console.log('T')
         break;
