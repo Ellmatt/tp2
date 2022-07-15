@@ -4,14 +4,15 @@ function contarVocales(texto) {
     let vocales = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'];
     
     for(let i = 0; i < texto.length; ++i){
-        if (vocales.indexOf(texto[i]) >= 0);{
+        if (vocales.indexOf(texto[i]) >= 0){
+            console.log(vocales.indexOf(texto[i]))
         ++contadorVocales;}
     }
 
 return contadorVocales;
 
 }
-console.log(contarVocales('pyton'));
+console.log(contarVocales('hola'));
 
     
    
